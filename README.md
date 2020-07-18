@@ -1,10 +1,12 @@
-Simple Dice Game
+Simple Dice Game view here => https://abdul7896.github.io/Dice-Game/
 
 Utilised DOM & querySelectors 
 Utilised If/Statements
 Utilised Concatenations
 
 Personal Stretch Goal
+Make reset buttons
+Implement Score Card
 Making Functions
 Switch Case Statements
 
